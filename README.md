@@ -1,2 +1,3 @@
 # Liv-s-repo
-excersize
+this is a repo created for STAT545
+
